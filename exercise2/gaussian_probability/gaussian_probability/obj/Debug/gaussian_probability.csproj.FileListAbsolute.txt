@@ -1,0 +1,11 @@
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.csproj.AssemblyReference.cache
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.csproj.SuggestedBindingRedirects.cache
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.Form1.resources
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.Properties.Resources.resources
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.csproj.GenerateResource.cache
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.csproj.CoreCompileInputs.cache
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\bin\Debug\gaussian_probability.exe.config
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\bin\Debug\gaussian_probability.exe
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\bin\Debug\gaussian_probability.pdb
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.exe
+C:\Users\39350\Documents\gaussian_probability\gaussian_probability\obj\Debug\gaussian_probability.pdb

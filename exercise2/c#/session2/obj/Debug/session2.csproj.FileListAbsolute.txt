@@ -1,0 +1,11 @@
+C:\Users\39350\Source\Repos\session2\session2\bin\Debug\session2.exe.config
+C:\Users\39350\Source\Repos\session2\session2\bin\Debug\session2.exe
+C:\Users\39350\Source\Repos\session2\session2\bin\Debug\session2.pdb
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.csproj.AssemblyReference.cache
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.csproj.SuggestedBindingRedirects.cache
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.Form1.resources
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.Properties.Resources.resources
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.csproj.GenerateResource.cache
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.csproj.CoreCompileInputs.cache
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.exe
+C:\Users\39350\Source\Repos\session2\session2\obj\Debug\session2.pdb
