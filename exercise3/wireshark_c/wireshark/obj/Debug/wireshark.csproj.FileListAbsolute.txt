@@ -1,0 +1,11 @@
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.csproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.Form1.resources
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.Properties.Resources.resources
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.csproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.csproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\wireshark\wireshark\bin\Debug\wireshark.exe.config
+C:\Users\Nile\Source\Repos\wireshark\wireshark\bin\Debug\wireshark.exe
+C:\Users\Nile\Source\Repos\wireshark\wireshark\bin\Debug\wireshark.pdb
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.exe
+C:\Users\Nile\Source\Repos\wireshark\wireshark\obj\Debug\wireshark.pdb
