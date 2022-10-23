@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "wireshark_vb/1.0.0": {
+        "runtime": {
+          "wireshark_vb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wireshark_vb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

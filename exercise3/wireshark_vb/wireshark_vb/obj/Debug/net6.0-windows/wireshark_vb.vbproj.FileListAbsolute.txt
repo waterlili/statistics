@@ -1,0 +1,17 @@
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\bin\Debug\net6.0-windows\wireshark_vb.exe
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\bin\Debug\net6.0-windows\wireshark_vb.deps.json
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\bin\Debug\net6.0-windows\wireshark_vb.runtimeconfig.json
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\bin\Debug\net6.0-windows\wireshark_vb.dll
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\bin\Debug\net6.0-windows\wireshark_vb.pdb
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.vbproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.Form1.resources
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.vbproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.AssemblyInfoInputs.cache
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.AssemblyInfo.vb
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.vbproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.dll
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\refint\wireshark_vb.dll
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.pdb
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\wireshark_vb.genruntimeconfig.cache
+C:\Users\Nile\Source\Repos\wireshark_vb\wireshark_vb\obj\Debug\net6.0-windows\ref\wireshark_vb.dll
