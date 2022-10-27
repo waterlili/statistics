@@ -1,0 +1,17 @@
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\bin\Debug\net6.0-windows\Bionomial_probability.exe
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\bin\Debug\net6.0-windows\Bionomial_probability.deps.json
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\bin\Debug\net6.0-windows\Bionomial_probability.runtimeconfig.json
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\bin\Debug\net6.0-windows\Bionomial_probability.dll
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\bin\Debug\net6.0-windows\Bionomial_probability.pdb
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.csproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.Form1.resources
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.csproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.AssemblyInfoInputs.cache
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.AssemblyInfo.cs
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.csproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.dll
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\refint\Bionomial_probability.dll
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.pdb
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\Bionomial_probability.genruntimeconfig.cache
+C:\Users\Nile\Source\Repos\Bionomial_probability\Bionomial_probability\obj\Debug\net6.0-windows\ref\Bionomial_probability.dll
