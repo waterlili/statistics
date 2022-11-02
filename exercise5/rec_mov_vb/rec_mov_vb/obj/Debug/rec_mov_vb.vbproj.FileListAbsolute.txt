@@ -1,0 +1,13 @@
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\bin\Debug\rec_mov_vb.exe.config
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\bin\Debug\rec_mov_vb.exe
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\bin\Debug\rec_mov_vb.pdb
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\bin\Debug\rec_mov_vb.xml
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.vbproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.Form1.resources
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.Resources.resources
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.vbproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.vbproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.exe
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.xml
+C:\Users\Nile\Source\Repos\rec_mov_vb\rec_mov_vb\obj\Debug\rec_mov_vb.pdb

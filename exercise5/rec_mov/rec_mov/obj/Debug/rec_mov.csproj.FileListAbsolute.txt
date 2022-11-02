@@ -1,0 +1,11 @@
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\bin\Debug\rec_mov.exe.config
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\bin\Debug\rec_mov.exe
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\bin\Debug\rec_mov.pdb
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.csproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.Properties.Resources.resources
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.csproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.csproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.exe
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.pdb
+C:\Users\Nile\Source\Repos\rec_mov\rec_mov\obj\Debug\rec_mov.Form1.resources

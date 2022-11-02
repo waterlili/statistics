@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rec_mov_vb", "rec_mov_vb\rec_mov_vb.vbproj", "{44875BBE-DD40-4D18-BE0D-A79A9521AEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44875BBE-DD40-4D18-BE0D-A79A9521AEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44875BBE-DD40-4D18-BE0D-A79A9521AEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44875BBE-DD40-4D18-BE0D-A79A9521AEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44875BBE-DD40-4D18-BE0D-A79A9521AEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565C2BA7-A4BF-4D4E-B9D6-2FA1F6B2C68B}
+	EndGlobalSection
+EndGlobal
