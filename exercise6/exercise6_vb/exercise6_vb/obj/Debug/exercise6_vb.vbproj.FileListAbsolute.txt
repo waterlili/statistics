@@ -1,0 +1,13 @@
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\bin\Debug\exercise6_vb.exe.config
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\bin\Debug\exercise6_vb.exe
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\bin\Debug\exercise6_vb.pdb
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\bin\Debug\exercise6_vb.xml
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.vbproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.Form1.resources
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.Resources.resources
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.vbproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.vbproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.exe
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.xml
+C:\Users\Nile\Source\Repos\exercise6_vb\exercise6_vb\obj\Debug\exercise6_vb.pdb
