@@ -1,0 +1,11 @@
+C:\Users\Nile\Source\Repos\exercise6\exercise6\bin\Debug\exercise6.exe.config
+C:\Users\Nile\Source\Repos\exercise6\exercise6\bin\Debug\exercise6.exe
+C:\Users\Nile\Source\Repos\exercise6\exercise6\bin\Debug\exercise6.pdb
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.csproj.AssemblyReference.cache
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.Form1.resources
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.Properties.Resources.resources
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.csproj.GenerateResource.cache
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.csproj.CoreCompileInputs.cache
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.exe
+C:\Users\Nile\Source\Repos\exercise6\exercise6\obj\Debug\exercise6.pdb
